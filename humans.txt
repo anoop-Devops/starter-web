@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Anoop Reddy  anoop.devops123@gmail.com  anoop.devops
 
 # THANKS
 
